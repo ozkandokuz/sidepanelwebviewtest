@@ -1,0 +1,7 @@
+- menu json yerine genel.json datası alınacak
+- logo url
+- login olunca member name
+- sepetteki ürün adedi
+- webview den dolayı akıp giden hatalar
+- renk ve tema secenekleri
+	
